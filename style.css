@@ -17,7 +17,7 @@ body{
 .button-link{
     padding: 10px 40px;
     text-decoration: none;
-    background-image: linear-gradient(rgb(235, 33, 26), rgb(185, 36, 16));
+    background-image: linear-gradient(red,salmon);
     border-radius: 5px;
     color: white;
 }
@@ -42,17 +42,18 @@ h1{
     
 }
 #Mission-1{
-    background-color: rgb(168, 149, 147);
+    background-color: rgba(175, 228, 228, 0.329);
 }
 #mission-02{
-    background-color: rgb(101, 172, 130);
+    background-color:rgba(201, 142, 142, 0.527);
 }
 #mission-3{
-    background-color: rgb(158, 145, 182);
+    background-color: rgba(173, 173, 127, 0.534);
 }
 .top-banner{
     display: flex;
     margin-bottom: 80px;
+    margin-top: 50px;
 }
 .top-banner-child{
     width: 30%;
