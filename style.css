@@ -1,0 +1,126 @@
+body{
+    font-family: 'Arimo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.orange-color{
+    color: orange;
+}
+.align-header{
+    text-align: center;
+}
+.border-header{
+    border-left: 5px solid rgb(10, 45, 241);
+}
+.button-link{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(rgb(235, 33, 26), rgb(185, 36, 16));
+    border-radius: 5px;
+    color: white;
+}
+h1{
+    font-size: 50px;
+    
+}
+.mission-parent{
+    display: flex;
+    margin-bottom: 100px;
+}
+.mission-item{
+    width: 30%;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding-left: 20px;
+    border-radius: 25px;
+}
+.mission-item img{
+    width: 150px;
+    height: auto;
+    
+}
+#Mission-1{
+    background-color: rgb(168, 149, 147);
+}
+#mission-02{
+    background-color: rgb(101, 172, 130);
+}
+#mission-3{
+    background-color: rgb(158, 145, 182);
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 80px;
+}
+.top-banner-child{
+    width: 30%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.top-banner-child img{
+    width: 80%;
+}
+.coding-area{
+    display: flex;
+    background-image: url(images/shapes/shape-0.png);
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-position: left;
+    margin-bottom: 130px;
+}
+.coding-area-child{
+    width: 40%;
+
+    margin-right: 2%;
+    padding-left: 20px;
+
+}
+h3{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.coding-area img{
+    width: 380px;
+    margin-left: 20%;
+}
+.global-area{
+    display: flex;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
+
+}
+.global-area-child{
+    width: 40%;
+    margin-right: 10%;
+    margin-left: 7%;
+
+}
+.global-area-child img{
+    width: 380px;
+}
+.corona-area{
+    display: flex;
+    margin-bottom: 130px;
+    
+}
+.corona-area-child{
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.corona-area-child img{
+    width: 380px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 7px;
+}
+
+
+
+
